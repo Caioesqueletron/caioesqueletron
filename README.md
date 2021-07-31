@@ -1,5 +1,8 @@
 ### Olá! Meu nome é Caio Vinicius 👋
 ##
+
+#### ℹ Meus status
+
 <div>
   <a href="https://github.com/caioesqueletron">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caioesqueletron&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -8,9 +11,9 @@
 
 </div>
 
-##
+
   
-#### As tecnologias que eu uso
+#### 👨‍💻 As tecnologias que eu uso
  
  
 <div style="display: inline_block"><br>
@@ -29,7 +32,7 @@
   
   
  ##
- #### Meus contatos
+ #### 📱 Meus contatos
 
 <div>
   <a href="https://github.com/caioesqueletron" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
