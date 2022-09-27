@@ -5,6 +5,7 @@
 
 <div>
   <a href="https://github.com/caioesqueletron">
+  
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caioesqueletron&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioesqueletron&layout=compact&langs_count=7&theme=tokyonight"/>
     <img  align="right" width="148px" height="128px" alt="GifPhrase" src="https://media2.giphy.com/media/VTtANKl0beDFQRLDTh/200.gif">
