@@ -39,9 +39,6 @@
 <div>
   <a href="https://github.com/caioesqueletron" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href = "mailto:caiocaio620@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/caio-vinicius-fernandes-antonio-8a36731a3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/caioesqueletron/caioesqueletron/blob/output/github-contribution-grid-snake.svg)
- 
+  <a href="https://www.linkedin.com/in/caio-vinicius-fernandes-antonio-8a36731a3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
 
