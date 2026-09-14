@@ -27,7 +27,7 @@ My experience spans backend engineering, frontend development, cloud-native syst
 <div align="center">
   <a href="https://github.com/caioesqueletron">
     <img height="180em" src="https://github-stats-extended.vercel.app/api?username=caioesqueletron&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-    <img height="180em" src="https:/github-stats-extended.vercel.app/api/top-langs/?username=caioesqueletron&layout=compact&langs_count=10&theme=tokyonight&hide_border=true"/>
+    <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=caioesqueletron"/>
   </a>
 </div>
 
