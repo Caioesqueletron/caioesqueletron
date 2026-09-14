@@ -24,7 +24,6 @@ My experience spans backend engineering, frontend development, cloud-native syst
 ---
 
 ## 📊 GitHub Statistics
-https://github-stats-extended.vercel.app/api?
 <div align="center">
   <a href="https://github.com/caioesqueletron">
     <img height="180em" src="https://github-stats-extended.vercel.app/api?username=caioesqueletron&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
