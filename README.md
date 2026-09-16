@@ -186,8 +186,8 @@ Scalability
 
 ---
 
-<div align="center">
-
-### Building complete software solutions — from frontend interfaces to cloud infrastructure.
-
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/caioesqueletron/caioesqueletron/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/caioesqueletron/caioesqueletron/output/snake.svg">
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/caioesqueletron/caioesqueletron/output/snake.svg">
+</picture>
